@@ -1,0 +1,106 @@
+.textbox{
+	width: 100%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+	margin: 8px 0;
+	/* border-bottom: 1px solid #4caf50; */
+}
+
+.textbox i{
+	width: 26px;
+	float: left;
+	text-align: center;
+}
+
+.textbox input{
+	color: black;
+	font-size: 18px;
+	width: 100%;
+	float: left;
+	margin: 0 10px;
+}
+.button{
+	width: 50%;
+	background: none;
+	border: 2px solid white;
+	color: white;
+	background-color: black;
+	padding: 5px;
+	font-size: 18px;
+	cursor: pointer;
+	margin-left: 100px;;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /*height: 2.5rem;            /* Footer height */*/
+}
+
+.button:hover{
+	background-color: #1d2127;
+}
+
+.add-test-box{
+	width: 600px;
+	margin-left: -300px;
+	/* margin-top: -150px; */
+	position: absolute;
+	/* top: 100%; */
+	left: 50%;
+	/* border: 2px solid #e0e0e0; */
+	border-radius: 5px;
+	padding: 10px;
+}
+
+h4{
+	text-align: center;
+	width: 400px;
+	padding: 10px;
+	color: white;
+}
+.header_text{
+  color: black;
+}
+.row_space {
+    border-collapse:separate;
+    border-spacing:0 10px;
+}
+
+table {
+  table-layout: fixed ;
+  width: 80% ;
+}
+td {
+  width: 25% ;
+}
+.td_space{
+	padding-left: 10px;
+}
+.item-table{
+	width: 50%;
+}
+
+.form-inline .form-group{
+	margin-bottom: 20px;
+	float: right;
+}
+.calculation_box{
+	margin-top: 10px;
+}
+.form-group{
+	margin-top: 20px;
+}
+
+.invoice-box-size-width{
+    width: 100% !important;
+}
+
+
+
+
+
+
+
